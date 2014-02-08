@@ -1,0 +1,16 @@
+//Import Compass
+
+@import "compass";
+
+//Main Styling
+
+@import "main";
+
+//Media Queries
+
+// Styles for anything above 768px wide
+@import 'media_queries/768';
+// Styles for anything above 992px wide
+@import 'media_queries/992';
+// Styles for anything above 1200px wide
+@import 'media_queries/1200';
